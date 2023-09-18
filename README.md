@@ -21,7 +21,7 @@ The other files in this repo are not required to host an instance of this app.
 
 ### Dependencies
 
-This script uses [cash.js](https://github.com/fabiospampinato/cash) for simpler selectors and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) for CS classes.
+This script uses [cash.js](https://github.com/fabiospampinato/cash) for simpler selectors and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) for CSS classes.
 
 You can update the Tailwind CSS build output by installing `tailwindcss` with NPM and then running:
 
