@@ -6,6 +6,9 @@ This app provides an improved script manager experience complete with the abilit
 
 A copy of this script [is hosted here](https://overte.zetaphor.com/scripts/scriptManager/scriptManager.js), which can be loaded directly into Overte from the script manager.
 
+![image](https://github.com/Zetaphor/overte-scriptManager/assets/3112763/2aecae29-79b5-4e8e-90de-12f172c01a63)
+
+
 ### Hosting
 
 The required files to host a copy of this script are as follows:
